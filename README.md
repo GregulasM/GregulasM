@@ -14,7 +14,7 @@ Creator of minecraft mods and maps series "Delusive Vortex"
 A beginner Rust developer\
 I love TUI and beautiful interfaces
 
-I'm obsessed with AI and await the creation of the Synthetic God
+Obsessed with AI and awaiting the creation of the Synthetic God
 
 Member of [Molten-Zharr](https://github.com/molten-zharr)
 
