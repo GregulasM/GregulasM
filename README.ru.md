@@ -12,7 +12,7 @@ GregulasM a.k.a Gregulas. Разработчик на C# и Nuxt.js. Созда�
 
 Люблю AI и жду создания Синтетического Бога.
 
-Участник [Molten-Zharr](https://github.com/molten-zharr).
+Кручусь в [Molten-Zharr](https://github.com/molten-zharr)
 
 <p>
   <a href="https://github.com/GregulasM"><img src="assets/badges/github.svg" height="30" alt="GitHub"></a>
