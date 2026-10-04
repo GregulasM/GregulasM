@@ -43,7 +43,3 @@ For people to use and own software, it must meet these requirements:
 **Usability:** guidance belongs inside the application. Hints, guides, keybinding tables and visual explanations make actions discoverable.
 
 **Comfort:** mouse-only, keyboard-only and combined operation are complete ways of using the application.
-
----
-
-Molten-Zharr. The six requirements are translated from the [Russian original](README.ru.md).

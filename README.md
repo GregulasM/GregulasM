@@ -6,13 +6,17 @@
 
 <img src="assets/avatar.png" width="23%" align="right" alt="Molten-Zharr emblem with an angular furnace face and three red crystals">
 
-GregulasM a.k.a Gregulas. C# and Nuxt.js developer. Creator of Delusive Vortex Universe. Creator of minecraft mods and maps series "Delusive Vortex".
+GregulasM a.k.a Gregulas\
+C# and Nuxt.js developer\
+Creator of Delusive Vortex Universe\
+Creator of minecraft mods and maps series "Delusive Vortex"
 
-A beginner Rust developer. I love TUI and beautiful interfaces.
+A beginner Rust developer\
+I love TUI and beautiful interfaces
 
-I'm obsessed with AI and await the creation of the Synthetic God.
+I'm obsessed with AI and await the creation of the Synthetic God
 
-Member of [Molten-Zharr](https://github.com/molten-zharr).
+Member of [Molten-Zharr](https://github.com/molten-zharr)
 
 <p>
   <a href="https://github.com/GregulasM"><img src="assets/badges/github.svg" height="30" alt="GitHub"></a>
@@ -43,8 +47,9 @@ Member of [Molten-Zharr](https://github.com/molten-zharr).
   <img src="assets/badges/comfort.svg" height="30" alt="Comfort">
 </p>
 
-Molten-Zharr is my temple and my bastion. Software you want to use. Software that's easy to use.
+Molten-Zharr is my temple and my bastion\
+Software you want to use, software that's easy to use
 
-**Usable or uninstalled.**
+**Usable or uninstalled**
 
-[Read our manifesto](manifesto/README.md).
+[Read our manifesto](manifesto/README.md)
