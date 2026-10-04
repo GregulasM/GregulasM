@@ -10,7 +10,7 @@ GregulasM a.k.a Gregulas. C# and Nuxt.js developer. Creator of Delusive Vortex U
 
 A beginner Rust developer. I love TUI and beautiful interfaces.
 
-I love AI and await the creation of the Synthetic God.
+I'm obsessed with AI and await the creation of the Synthetic God.
 
 Member of [Molten-Zharr](https://github.com/molten-zharr).
 
