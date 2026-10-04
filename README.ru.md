@@ -2,9 +2,9 @@
 
 [English](README.md) · [Русский](README.ru.md)
 
-<img src="assets/avatar.png" width="23%" align="right" alt="Знак Molten-Zharr с геометричным лицом печи и тремя красными кристаллами">
-
 # Gregulas
+
+<img src="assets/avatar.png" width="23%" align="right" alt="Знак Molten-Zharr с геометричным лицом печи и тремя красными кристаллами">
 
 GregulasM, он же Gregulas. Разработчик на C# и Nuxt.js. Создатель вселенной Delusive Vortex и серии модов и карт для Minecraft "Delusive Vortex".
 

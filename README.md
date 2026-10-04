@@ -2,9 +2,9 @@
 
 [English](README.md) · [Русский](README.ru.md)
 
-<img src="assets/avatar.png" width="23%" align="right" alt="Molten-Zharr emblem with an angular furnace face and three red crystals">
-
 # Gregulas
+
+<img src="assets/avatar.png" width="23%" align="right" alt="Molten-Zharr emblem with an angular furnace face and three red crystals">
 
 GregulasM a.k.a Gregulas. C# and Nuxt.js developer. Creator of Delusive Vortex Universe. Creator of minecraft mods and maps series "Delusive Vortex".
 
