@@ -6,12 +6,13 @@
 
 <img src="assets/avatar.png" width="23%" align="right" alt="Знак Molten-Zharr с геометричным лицом печи и тремя красными кристаллами">
 
-GregulasM a.k.a Gregulas\
-Разработчик на C# и Nuxt.js\
-Создатель вселенной Delusive Vortex\
-Создатель серии модов и карт для Minecraft "Delusive Vortex"
+GregulasM a.k.a Gregulas.\
+Разработчик на C# и Nuxt.js.\
+Создатель вселенной Delusive Vortex.\
+Создатель серии модов и карт для Minecraft "Delusive Vortex".
 
-Начинающий разработчик на Rust\
+Начинающий разработчик на Rust
+
 Люблю TUI и красивые интерфейсы
 
 Без ума от AI и жду создания Синтетического Бога
@@ -39,7 +40,7 @@ GregulasM a.k.a Gregulas\
 
 ![Разделитель](assets/divider.svg)
 
-## Моя любовь
+## Глубоко обожаемое
 
 <p>
   <img src="assets/badges/style.svg" height="30" alt="Стиль">
@@ -47,8 +48,8 @@ GregulasM a.k.a Gregulas\
   <img src="assets/badges/comfort.svg" height="30" alt="Комфорт">
 </p>
 
-Molten-Zharr - мой храм и мой бастион\
-ПО, которым хочется пользоваться, ПО, которым удобно пользоваться
+Molten-Zharr - мой храм и мой бастион.\
+ПО, которым хочется пользоваться, ПО, которым удобно пользоваться.
 
 **Удобство или удаление**
 
