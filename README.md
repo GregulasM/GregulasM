@@ -21,16 +21,21 @@ Member of [Molten-Zharr](https://github.com/molten-zharr).
 </p>
 
 ```text
-languages  C# · Rust (learning)
-tools      Nuxt.js
-interests  TUI · UI · AI
+╭─ Friend-zoned by
+│  C# · Rust · TypeScript · Go
+│
+├─ In love with
+│  Nuxt.js · Tailwind CSS 4
+│
+╰─ Praying to
+   TUI · UI · AI
 ```
 
 <br clear="right">
 
 ![Section divider](assets/divider.svg)
 
-## What I care about
+## My Beloved
 
 <p>
   <img src="assets/badges/style.svg" height="30" alt="Style">
@@ -38,6 +43,8 @@ interests  TUI · UI · AI
   <img src="assets/badges/comfort.svg" height="30" alt="Comfort">
 </p>
 
-I share the Molten-Zharr approach: beautiful software, guidance inside the application, and complete mouse and keyboard support, together or separately.
+Molten-Zharr is my temple and my bastion. Software you want to use. Software that's easy to use.
+
+**Usable or uninstalled.**
 
 [Read our manifesto](manifesto/README.md).

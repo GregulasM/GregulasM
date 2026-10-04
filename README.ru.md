@@ -6,7 +6,7 @@
 
 <img src="assets/avatar.png" width="23%" align="right" alt="Знак Molten-Zharr с геометричным лицом печи и тремя красными кристаллами">
 
-GregulasM, он же Gregulas. Разработчик на C# и Nuxt.js. Создатель вселенной Delusive Vortex и серии модов и карт для Minecraft "Delusive Vortex".
+GregulasM a.k.a Gregulas. Разработчик на C# и Nuxt.js. Создатель вселенной Delusive Vortex и серии модов и карт для Minecraft "Delusive Vortex".
 
 Начинающий разработчик на Rust. Люблю TUI и красивые интерфейсы.
 
@@ -21,16 +21,21 @@ GregulasM, он же Gregulas. Разработчик на C# и Nuxt.js. Соз
 </p>
 
 ```text
-languages  C# · Rust (изучаю)
-tools      Nuxt.js
-interests  TUI · UI · AI
+╭─ Friend-zoned by
+│  C# · Rust · TypeScript · Go
+│
+├─ In love with
+│  Nuxt.js · Tailwind CSS 4
+│
+╰─ Praying to
+   TUI · UI · AI
 ```
 
 <br clear="right">
 
 ![Разделитель](assets/divider.svg)
 
-## Что для меня важно
+## Моя любовь
 
 <p>
   <img src="assets/badges/style.svg" height="30" alt="Стиль">
@@ -38,6 +43,8 @@ interests  TUI · UI · AI
   <img src="assets/badges/comfort.svg" height="30" alt="Комфорт">
 </p>
 
-Я разделяю подход Molten-Zharr: красивое ПО, помощь внутри программы и полноценное управление мышью и клавиатурой - вместе или по отдельности.
+Molten-Zharr - мой храм и мой бастион. ПО, которым хочется пользоваться, ПО, которым удобно пользоваться.
+
+**Удобство или удаление.**
 
 [Наш манифест](manifesto/README.ru.md).
