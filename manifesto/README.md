@@ -21,25 +21,17 @@ We want Linux to become popular and beat Windows. Our part is to build software 
 
 ## What we reject
 
-Not giving a damn about the user.
+Not caring about the user.
 
-People should be able to discover ordinary actions inside an application. If the interface sends them to external documentation just to find a basic command, it has left its work unfinished.
+Basic actions should be clear without a trip to external documentation. Help belongs where people use it: inside the application.
 
 ## Six requirements
 
-For people to use and own software, it must meet these requirements:
+You should own your software and be able to customize it. Here's what we expect from our applications:
 
-1. Stylish and beautiful. You want to download it and take a look.
-2. It must always include hints, guides, keybinding tables, and visual explanations of how to use it.
-3. It must support a mouse and a keyboard, with both working together or either one working on its own.
-4. It must have a plugin system for creating, installing, and modifying plugins.
-5. Most elements must be customizable, with profiles and freely adjustable appearance and order.
-6. Updates must not break configuration files. We will make every effort to ensure that major updates preserve your settings.
-
-## How this shapes our work
-
-**Style:** visual quality gets real attention. Layout, typography and color help people understand the application and want to use it.
-
-**Usability:** guidance belongs inside the application. Hints, guides, keybinding tables and visual explanations make actions discoverable.
-
-**Comfort:** mouse-only, keyboard-only and combined operation are complete ways of using the application.
+1. A stylish, beautiful interface that makes you want to try it. Colors, typography and layout help you find your way around.
+2. Hints, guides, shortcut lists and visual examples are always at hand, inside the application.
+3. Full control with a mouse, a keyboard or both. You choose how to use it.
+4. Plugins you can create, install and modify.
+5. Freedom to change how most elements look and where they sit, and save your settings in profiles.
+6. Updates must not break your settings. We make every effort to preserve your configuration through major changes.

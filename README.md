@@ -54,3 +54,10 @@ Software you want to use, software that's easy to use.
 **Usable or uninstalled**
 
 [Read our manifesto](manifesto/README.md)
+
+## Molten-Zharr projects
+
+| Project | What it does |
+|---|---|
+| [Almavorn](https://github.com/Molten-Zharr/Almavorn) | **Our flagship.** A Linux music player for the desktop and terminal. Your music. Your shortcuts. Your layout. |
+| [Basalgrim](https://github.com/Molten-Zharr/Basalgrim) | A Linux file manager. Work with files on the desktop or in the terminal, using a mouse and keyboard. |
